@@ -8,12 +8,17 @@
 
 Me llamo Roberto Felix tengo 21 años y estudio la carrera de ingenieria en Tecnologias de la Información y Comunicacion. Me gusta las tecnologias y la programación.
 
+Mi horarios
+
+|       | Lunes                                       | Martes                                     | Miercoles                                  | Jueves                                     | Viernes                             |
+|-------|---------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|-------------------------------------|
+| 2:00  | Administración y seguridad de redes         | Administración y seguridad de redes        | Administración y seguridad de redes        | Administración y seguridad de redes        | Administración y seguridad de redes |
+| 3:00  | Ingeniería del Conocimiento                 | Ingeniería del Conocimiento                | Ingeniería del Conocimiento                | Ingeniería del Conocimiento                |                                     |
+| 4:00  |                                             |                                            |                                            |                                            |                                     |
+| 5:00  | Negocios Electronicos II                    |                                            |                                            |                                            |                                     |
+| 6:00  | Negocios Electronicos II                    | Negocios Electronicos II                   |                                            | Negocios Electronicos II                   |                                     |
+| 7:00  |                                             |                                            |                                            |                                            |                                     |
+| 8:00  | Auditoria en Tecnologías de la Información  | Auditoria en Tecnologías de la Información | Auditoria en Tecnologías de la Información | Auditoria en Tecnologías de la Información |                                     |
 
 
-Ejemplo Tablas en MD
 
-| Sensores 	|  X 	|  Y  	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
