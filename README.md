@@ -8,7 +8,7 @@
 
 Me llamo Roberto Felix tengo 21 años y estudio la carrera de ingenieria en Tecnologias de la Información y Comunicacion. Me gusta las tecnologias y la programación.
 
-Mi horarios
+Mi horario :D
 
 |       | Lunes                                       | Martes                                     | Miercoles                                  | Jueves                                     | Viernes                             |
 |-------|---------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|-------------------------------------|
