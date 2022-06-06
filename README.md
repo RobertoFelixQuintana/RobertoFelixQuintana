@@ -6,7 +6,7 @@
 ### Hola a todos 👋
 
 
-Me llamo Roberto Felix tengo 21 años y estudio la carrera de ingenieria en Tecnologias de la Información y Comunicacion. Me gusta las tecnologias y la programación.
+Me llamo Roberto Felix tengo 22 años y estudio la carrera de ingenieria en Tecnologias de la Información y Comunicacion. Me gustan las tecnologias, los videojuegos y la programación.
 
 Mi horario :D
 
