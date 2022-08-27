@@ -1,4 +1,4 @@
-![](https://cdn.seeklearning.com.au/media/images/career-guide/module/web-developer-module.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuSS_4X5fnUZOeDfTnnIwEul-6K-ZFmabHFA&usqp=CAU)
 
 ![](https://i.kym-cdn.com/photos/images/newsfeed/000/948/109/c57.png)
 
